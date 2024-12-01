@@ -1,0 +1,16 @@
+{
+  "name": "ts-lab7",
+  "version": "1.0.0",
+  "description": "## Опис",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
